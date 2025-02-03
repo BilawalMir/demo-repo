@@ -2,4 +2,4 @@
 <br>
 This is my first Git Repository
 <br>
-Author - Bilawal Mir
+Author - Bilawal Mir(AI STUDENT)
